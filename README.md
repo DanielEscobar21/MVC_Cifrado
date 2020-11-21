@@ -31,7 +31,7 @@ java src/exe
 
 
 ## Referencias
-− Java Threads, Scott Oaks & Henry Wong, Ed. O'Reilly, 3ª Edición, 2004 − Core Java 2 Vol. 2 – Características Avanzadas, Cay Horstmann & Gary Cornell, Ed. Prentice Hall – Pearson Educación, 7ª Edición, 2005 
+− Manual de practicas de Tópicos Avanzados de Programación
 
 
 ## Version
